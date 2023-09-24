@@ -1,0 +1,12 @@
+import _random
+
+karakakterler = "+-/*!&$#?=@abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
+
+sayi = int(input("kac karakakterli sifre olusturlsun? "))
+
+sayi = int(input("kaç karekterli sifre olusturulsun"))
+
+for i in range(sayi:)
+    sifre *= _random.choice(karekter)
+
+print (sifre)
